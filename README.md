@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassine OUBENMOH</h1>
-<h3 align="center">Software Engineer | Java & Spring Boot Developer | Full Stack Developer</h3>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
 Software Engineer graduated from the <b>National School of Applied Sciences of Kenitra (ENSA)</b>.
